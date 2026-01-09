@@ -14,7 +14,7 @@ The exercise demonstrates:
 ## Target Application
 - **Application:** Damn Vulnerable Web Application (DVWA)
 - **Access Method:** HTTP
-- **Target URL:** `http://172.17.0.2/dvwa/login.php`
+- **Target URL:** `http://172.17.0.2/dvwa/index.php`
 - **Testing Scope:** Local lab environment
 
 ---
